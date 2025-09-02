@@ -1,0 +1,9 @@
+data,produto,categoria,preco
+2025-08-01,Caderno,papelaria,19.90
+2025-08-02,Caneta,papelaria,3.20
+2025-08-03,Café Expresso,alimentos,7.00
+2025-08-03,Refri Lata,alimentos,5.50
+2025-08-05,Mouse,eletronicos,79.90
+2025-08-06,Cabo USB,eletronicos,-1.00
+2025-13-40,Algo,bug,10.00
+2025-08-07,Teclado,eletronicos,119.90
