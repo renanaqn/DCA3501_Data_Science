@@ -1,0 +1,29 @@
+[
+  {
+    "pedido_id": 101,
+    "cliente_id": 1,
+    "valor": 123.5,
+    "itens": [
+      "caderno",
+      "caneta"
+    ]
+  },
+  {
+    "pedido_id": 102,
+    "cliente_id": 2,
+    "valor": 55.9,
+    "itens": [
+      "mouse"
+    ]
+  },
+  {
+    "pedido_id": 103,
+    "cliente_id": 1,
+    "valor": 310.0,
+    "itens": [
+      "teclado",
+      "mouse",
+      "hub usb"
+    ]
+  }
+]
